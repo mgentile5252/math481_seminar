@@ -1,2 +1,2 @@
 # math481_seminar
-Holds python code for my senior seminar project at Colgate for applied mathematics major
+Holds python code for my senior seminar project at Colgate for applied mathematics major. A network analysis project (NetworkX python package) that creates player value rankings for each NBA team based on the individual player’s combined contribution to each 5-man lineup that he participated in. With a more complete understanding of each players' impact on a lineup's performance, coaches can better tailor allocation of playing time and general managers can better target areas of the roster to improve upon.
